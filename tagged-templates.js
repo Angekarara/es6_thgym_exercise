@@ -9,5 +9,5 @@ function highlight(strings, ...values) {
 }
 const name =  'snickers';
 const age = '100'
-const sentence = highlight`my name is ${name} and my age is ${age} years old`;
+const sentence = highlight`my name is ${name} and my age is ${age} years old`;s
 console.log(sentence)
